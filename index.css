@@ -483,12 +483,16 @@ button.carousel-control-next {
     margin-top: 100px;
 }
 
+.bg-banner img {
+    width: 100%;
+}
+
 .title-banner {
     width: 556px;
     height: 371px;
     position: absolute;
     background-color: #ffff;
-    margin: 165px 0 0 1107px;
+    margin: 89px 0 0 773px;
     border-radius: 16px;
     padding: 50px 50px;
 }
@@ -559,6 +563,10 @@ button.carousel-control-next {
     margin: 8px 0px 0px 182px;
 }
 
+.Us-image {
+    margin: 5px;
+}
+
 .footer {
     background-color: #F5F5F5
 }
@@ -573,7 +581,7 @@ button.carousel-control-next {
 
 .About-us {
     text-align: start;
-    margin: 21px 114px 0 249px;
+    margin: 34px 19px 0 20px;
 }
 
 .footer-logo {
@@ -590,7 +598,7 @@ p.About-a-text {
 
 .Service {
     text-align: start;
-    margin: 24px 20px -28px 20px;
+    margin: 24px -11px 0px 2px;
 }
 
 .Service-a-text {
@@ -601,7 +609,7 @@ p.About-a-text {
 
 .Categories-f {
     text-align: start;
-    margin: 24px -40px 0 44px;
+    margin: 24px 0px 0 54px;
 }
 
 .Categories-a-text {
@@ -613,7 +621,7 @@ p.About-a-text {
 .Newsletter {
     text-align: start;
     width: 508px;
-    margin: 25px 191px 0 113px;
+    margin: 25px -10px 0 110px;
 }
 
 .Newsletter-a-text {
@@ -643,7 +651,7 @@ p.About-a-text {
 }
 
 .Copyright-language {
-    margin: 0 -250px 0 -19px;
+    margin: 0 -110px 0 5px;
 }
 
 .currency {
