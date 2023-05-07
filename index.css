@@ -386,7 +386,7 @@ body {
 
 .b-title {
     width: 95%;
-    margin-top: 280px;
+    margin-top: 130px;
     position: absolute;
     z-index: 1;
     color: #FFFFFF;
@@ -418,7 +418,7 @@ div#carouselExampleInterval {
 button.carousel-control-prev {
     width: 55px;
     height: 55px;
-    margin: 406px 0 356px 63px;
+    margin: 250px 0 250px 55px;
     border: 1px solid;
     border-radius: 50%;
     background-color: #111111;
@@ -427,7 +427,7 @@ button.carousel-control-prev {
 button.carousel-control-next {
     width: 55px;
     height: 55px;
-    margin: 407px 64px 369px 0px;
+    margin: 250px 0 250px 55px;
     border: 1px solid;
     border-radius: 50%;
     background-color: #111111;
@@ -458,9 +458,7 @@ button.carousel-control-next {
 .products {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     padding: 0px 5rem;
-    margin: 0 50px;
 }
 
 .cart {
@@ -492,7 +490,7 @@ button.carousel-control-next {
     height: 371px;
     position: absolute;
     background-color: #ffff;
-    margin: 89px 0 0 773px;
+    margin: 54px 0 0 624px;
     border-radius: 16px;
     padding: 50px 50px;
 }
@@ -524,7 +522,7 @@ button.carousel-control-next {
     margin: 100px 0 88px 0;
     display: flex;
     justify-content: space-around;
-    padding: 0px 325px;
+    padding: 0px 155px;
 }
 
 .pack {
@@ -540,7 +538,7 @@ button.carousel-control-next {
 }
 
 .Border {
-    width: 1410px;
+    width: 100%;
     height: 1px;
     border: 1px solid #DEDEDE;
     margin: 0 auto;
@@ -553,9 +551,11 @@ button.carousel-control-next {
 
 .Instagram-images {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
-    padding: 0 249px;
-    margin: 37px 0;
+    padding: 0px;
+    margin: 37px 0px;
+    width: 100%;
 }
 
 .cart-ic {
@@ -621,7 +621,7 @@ p.About-a-text {
 .Newsletter {
     text-align: start;
     width: 508px;
-    margin: 25px -10px 0 110px;
+    margin: 25px -10px 0 42px;
 }
 
 .Newsletter-a-text {
@@ -651,7 +651,7 @@ p.About-a-text {
 }
 
 .Copyright-language {
-    margin: 0 -110px 0 5px;
+    margin: 0 -74px 0 5px;
 }
 
 .currency {
